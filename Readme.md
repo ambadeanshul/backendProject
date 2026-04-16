@@ -87,7 +87,7 @@ npm run dev
 
 ---
 
-## 📌 API Highlights
+##  API Highlights
 
 * `/api/v1/users` → User management
 * `/api/v1/videos` → Video APIs
@@ -96,7 +96,7 @@ npm run dev
 
 ---
 
-## 📚 Learning Reference
+##  Learning Reference
 
 This project is inspired by backend concepts commonly used in production systems and follows best practices for scalable API design.
 
