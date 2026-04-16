@@ -31,7 +31,7 @@ It implements a complete REST API for a video-based platform with features like 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -45,7 +45,7 @@ src/
 
 ---
 
-## ⚙️ Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -117,6 +117,4 @@ This project is inspired by backend concepts commonly used in production systems
 
 ---
 
-## 📄 License
 
-This project is for learning and demonstration purposes.
