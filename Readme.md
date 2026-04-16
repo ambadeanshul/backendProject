@@ -1,13 +1,13 @@
 # Backend Project (Node.js + Express)
 
-## 🚀 Overview
+##  Overview
 
 This is a scalable backend project built using **Node.js, Express, and MongoDB**.
 It implements a complete REST API for a video-based platform with features like authentication, user management, and content interactions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Node.js**
 * **Express.js**
@@ -18,16 +18,16 @@ It implements a complete REST API for a video-based platform with features like 
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🔐 User Authentication (Login / Signup using JWT)
-* 📦 Access & Refresh Token system
-* 🎥 Video upload & management
-* 👍 Like / Dislike system
-* 💬 Comments & replies
-* 📌 Subscriptions (Follow system)
-* 📊 Dashboard APIs
-* ⚡ Scalable project structure (MVC pattern)
+*  User Authentication (Login / Signup using JWT)
+*  Access & Refresh Token system
+*  Video upload & management
+*  Like / Dislike system
+*  Comments & replies
+*  Subscriptions (Follow system)
+*  Dashboard APIs
+*  Scalable project structure (MVC pattern)
 
 ---
 
@@ -64,7 +64,7 @@ CLOUDINARY_API_SECRET=
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -102,16 +102,16 @@ This project is inspired by backend concepts commonly used in production systems
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
-* 🔄 Rate limiting
-* 📊 Logging & monitoring
-* 🧪 Unit & integration testing
-* 🚀 Deployment (Docker / Cloud)
+*  Rate limiting
+*  Logging & monitoring
+*  Unit & integration testing
+*  Deployment (Docker / Cloud)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Anshul Ambade**
 
